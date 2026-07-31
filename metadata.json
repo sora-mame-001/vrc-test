@@ -1,8 +1,17 @@
 {
   "gallery_title": "VRC test",
   "gallery_description": "VRChat Dynamic Gallery",
-  "last_updated": "2026-07-31 22:29:13",
+  "last_updated": "2026-07-31 22:45:29",
   "images": [
+    {
+      "file_hash": "694cd434",
+      "date": "2026-06-01",
+      "title": "",
+      "description": "",
+      "category": "Uncategorized",
+      "tags": [],
+      "photographer": ""
+    },
     {
       "file_hash": "678c8ed2",
       "date": "2026-07-07",
@@ -19,5 +28,6 @@
     "Selfie",
     "Landscape",
     "Group Photo"
-  ]
+  ],
+  "base_url": "https://sora-mame-001.github.io/vrc-test"
 }
