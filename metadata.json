@@ -1,14 +1,23 @@
 {
   "gallery_title": "VRC test",
   "gallery_description": "VRChat Dynamic Gallery",
-  "last_updated": "2026-07-31 22:46:32",
+  "last_updated": "2026-07-31 23:09:53",
   "images": [
+    {
+      "file_hash": "1c489af8",
+      "date": "2026-06-09",
+      "title": "",
+      "description": "",
+      "category": "Selfie",
+      "tags": [],
+      "photographer": ""
+    },
     {
       "file_hash": "694cd434",
       "date": "2026-06-01",
       "title": "",
       "description": "",
-      "category": "Uncategorized",
+      "category": "Selfie",
       "tags": [],
       "photographer": ""
     },
@@ -17,7 +26,7 @@
       "date": "2026-07-07",
       "title": "",
       "description": "",
-      "category": "Uncategorized",
+      "category": "Selfie",
       "tags": [],
       "photographer": ""
     }
