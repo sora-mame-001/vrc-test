@@ -1,8 +1,116 @@
 {
   "gallery_title": "VRC test",
   "gallery_description": "VRChat Dynamic Gallery",
-  "last_updated": "2026-07-31 23:09:53",
+  "last_updated": "2026-08-01 01:01:38",
   "images": [
+    {
+      "file_hash": "0f761461",
+      "date": "2026-01-26",
+      "title": "",
+      "description": "",
+      "category": "Selfie",
+      "tags": [],
+      "photographer": ""
+    },
+    {
+      "file_hash": "57d6cd62",
+      "date": "2026-01-24",
+      "title": "",
+      "description": "",
+      "category": "Selfie",
+      "tags": [],
+      "photographer": ""
+    },
+    {
+      "file_hash": "1a3c4282",
+      "date": "2026-02-04",
+      "title": "",
+      "description": "",
+      "category": "Selfie",
+      "tags": [],
+      "photographer": ""
+    },
+    {
+      "file_hash": "2f403c7f",
+      "date": "2026-03-31",
+      "title": "",
+      "description": "",
+      "category": "Selfie",
+      "tags": [],
+      "photographer": ""
+    },
+    {
+      "file_hash": "216f6dd3",
+      "date": "2026-03-13",
+      "title": "",
+      "description": "",
+      "category": "Selfie",
+      "tags": [],
+      "photographer": ""
+    },
+    {
+      "file_hash": "2b9330ca",
+      "date": "2026-04-23",
+      "title": "",
+      "description": "",
+      "category": "Selfie",
+      "tags": [],
+      "photographer": ""
+    },
+    {
+      "file_hash": "0b9c9278",
+      "date": "2026-04-11",
+      "title": "",
+      "description": "",
+      "category": "Selfie",
+      "tags": [],
+      "photographer": ""
+    },
+    {
+      "file_hash": "c074886c",
+      "date": "2026-05-25",
+      "title": "",
+      "description": "",
+      "category": "Selfie",
+      "tags": [],
+      "photographer": ""
+    },
+    {
+      "file_hash": "02c261cc",
+      "date": "2026-05-18",
+      "title": "",
+      "description": "",
+      "category": "Selfie",
+      "tags": [],
+      "photographer": ""
+    },
+    {
+      "file_hash": "6d7ec3bd",
+      "date": "2026-05-14",
+      "title": "",
+      "description": "",
+      "category": "Selfie",
+      "tags": [],
+      "photographer": ""
+    },
+    {
+      "file_hash": "90d25057",
+      "date": "2026-06-29",
+      "title": "",
+      "description": "",
+      "category": "Selfie",
+      "tags": [],
+      "photographer": ""
+    },
+    {
+      "file_hash": "48d2579c",
+      "date": "2026-06-13",
+      "title": "",
+      "description": "",
+      "category": "Selfie",
+      "tags": [],
+      "photographer": ""
+    },
     {
       "file_hash": "1c489af8",
       "date": "2026-06-09",
