@@ -1,0 +1,23 @@
+{
+  "gallery_title": "VRC test",
+  "gallery_description": "VRChat Dynamic Gallery",
+  "last_updated": "2026-07-31 22:29:13",
+  "images": [
+    {
+      "file_hash": "678c8ed2",
+      "date": "2026-07-07",
+      "title": "",
+      "description": "",
+      "category": "Uncategorized",
+      "tags": [],
+      "photographer": ""
+    }
+  ],
+  "categories": [
+    "Uncategorized",
+    "Main Event",
+    "Selfie",
+    "Landscape",
+    "Group Photo"
+  ]
+}
